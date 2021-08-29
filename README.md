@@ -62,4 +62,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-ejecutar composer install
+ejecutar composer install, en database se encuentra el script para construir la base de datos sql
